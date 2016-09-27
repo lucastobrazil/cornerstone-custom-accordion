@@ -3,7 +3,7 @@ A Wordpress Plugin that registers a custom elements for Cornerstone editor.
 
 # Element Included:
 - Custom Accordion (standard accordion with some extra fields included in the header)
-
+![Element screenshot](https://github.com/lucastobrazil/cornerstone-custom-accordion/blob/master/docs/images/element.png)
 This is a work in progress by me, and also my first Open Source project, so please give feedback!
 
 I decided to Open Source this because I noticed there's not much of a clear guideline from Themeco about how to create custom elements. Hoping that sharing my examples might help to get a clearer picture, and maybe we can write some documentation around it later too. 
@@ -21,3 +21,4 @@ First time use -> This needs to get installed via Wordpress plugins (Appearance 
 
 # Usage
 Now when you use the Cornerstone Editor, under "Elements" your new elements will be visible
+![Element screenshot](https://github.com/lucastobrazil/cornerstone-custom-accordion/blob/master/docs/images/edit.png)
